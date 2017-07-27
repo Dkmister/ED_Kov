@@ -28,6 +28,7 @@ int main(int argc, char *argv[]) //argc conta o n�mero de par�metros e argv 
     pNodoA *arv = NULL;
     int ok, verifica = 0;
     int achou = 0;
+    int loop_flag = 0;
     TipoInfo chave;
     char palavra2[20];
 
@@ -73,9 +74,15 @@ int main(int argc, char *argv[]) //argc conta o n�mero de par�metros e argv 
                     {
                         fprintf(saida, "%s\n", palavra2);
                         achou = busca(arv, palavra2, saida);
-                    }
-                    else{
-                        fprintf(saida,"%s","nenhum resultado encontrado");
+                        printf("Valor de achou: %d\n",achou);
+                        if(achou == 1)
+                        {
+                            loop_flag+=1;
+                        }
+                        if(achou == 0 && loop_flag == 0)
+                        {
+                            fprintf(saida,"%s","Nenhum Resultado Encontrado\n");
+                        }
                     }
                     fprintf(saida,"%s","\n\n");
 

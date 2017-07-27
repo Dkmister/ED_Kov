@@ -79,3 +79,21 @@
 	"avl.h"
 	<time.h>
 
+1501123289 source:c:\users\vilmar\documents\git\ed_kov\avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"avl.h"
+
+1501117284 c:\users\vilmar\documents\git\ed_kov\avl.h
+
+1501124684 source:c:\users\vilmar\documents\git\ed_kov\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"avl.h"
+	<time.h>
+
