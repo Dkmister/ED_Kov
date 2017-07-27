@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1351698646 source:c:\users\viviane\documents\teaching\inf01203-estruturas de dados\17-avl\tad_avl\avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"avl.h"
+
+1501017904 
+
+1271776104 c:\users\viviane\documents\teaching\inf01203-estruturas de dados\17-avl\tad_avl\avl.h
+
+1500685787 source:c:\users\mat-v\desktop\trabalho de ed\tad_avl\avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"avl.h"
+
+1500683982 c:\users\mat-v\desktop\trabalho de ed\tad_avl\avl.h
+
+1501017904 source:c:\users\mat-v\desktop\trabalho de ed\tad_avl\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"avl.h"
+	<time.h>
+
+1501100829 source:/home/grad/mfkovaleski/Desktop/trabalho de ed/TAD_AVL/avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1501100872 /home/grad/mfkovaleski/Desktop/trabalho de ed/TAD_AVL/avl.h
+
+1501100100 source:/home/grad/mfkovaleski/Desktop/trabalho de ed/TAD_AVL/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"avl.h"
+	<time.h>
+
+1501117380 source:c:\users\mat-v\desktop\nova pasta (3)\trabalho de ed\tad_avl\avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"avl.h"
+
+1501117284 c:\users\mat-v\desktop\nova pasta (3)\trabalho de ed\tad_avl\avl.h
+
+1501117440 source:c:\users\mat-v\desktop\nova pasta (3)\trabalho de ed\tad_avl\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"avl.h"
+	<time.h>
+
+1501117996 source:c:\users\vilmar\documents\tad_avl\tad_avl\avl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"avl.h"
+
+1501117284 c:\users\vilmar\documents\tad_avl\tad_avl\avl.h
+
+1501123019 source:c:\users\vilmar\documents\tad_avl\tad_avl\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"avl.h"
+	<time.h>
+
